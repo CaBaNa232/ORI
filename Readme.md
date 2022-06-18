@@ -1,0 +1,1 @@
+Códigos utilizados durante a disciplina de Organmização e Recuperação da informação - Universidade Federal de São Carlos.
